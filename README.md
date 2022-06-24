@@ -8,14 +8,12 @@ A **Personal Site** that was created in HTML5 & CSS3. This was a great experienc
 
 ### What's included
 
-+ JavaScript syntax & Basic Constructs
-+ Libraries:
-  * jQuery
-  * SOUNDJS
 + Basic codes of HTML5 & CSS3
-+ DOM Manipulation
-+ ES6+
 + Layouts:
+  * Flexbox
+  * Grid
+  * Floats
+  * Positioning
   * Display
   * Box Model
 + Responsive design & Media Queries
