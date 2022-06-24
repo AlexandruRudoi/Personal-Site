@@ -2,7 +2,7 @@
 
 A **Personal Site** that was created in HTML5 & CSS3. This was a great experience because I learned how to arrange a layout, I created a responsive design and I focused on typography and content as well. In conclusion, I like to keep it simple but I also try to make a website as authentic as possible.
 
-> <p><a href="https://alexandrurudoi.github.io/Personal-Site/">Personal Site/a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ralexhp25/">Instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+> <p><a href="https://alexandrurudoi.github.io/Personal-Site/">Personal Site</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ralexhp25/">Instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 ---
 
