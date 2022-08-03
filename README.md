@@ -20,7 +20,6 @@ A **Personal Site** that was created in HTML5 & CSS3. This was a great experienc
 + Code with accessibility
 + Conventions & Best Practices
 + Semantic Elements
-+ Search engine optimization
 
 ---
 
